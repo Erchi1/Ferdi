@@ -1,0 +1,13 @@
+{
+    "id": "outlook - praha4",
+    "name": "Outlook - Praha 4",
+    "version": "1.0.0",
+    "description": "Outlook Web App pro Prahu 4",
+    "main": "index.js",
+    "author": "Jan Hora <jan.hora@gmail.com>",
+    "repository": "",
+    "license": "MIT",
+    "config": {
+        "serviceURL": "https://holub.praha4.cz/owa/"
+    }
+}
